@@ -1,7 +1,7 @@
 //Applying dark & light themes in flutter
 //code snippet taken from abuanwar072 (applied some of my own changes too)
 
-import 'package:chat/constants.dart';
+import 'package:colorCode.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
