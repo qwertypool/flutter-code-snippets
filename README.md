@@ -8,6 +8,7 @@
 >
 >  The codes snippets given are taken from my own projects on basis of their usage, you can customize it to fulfill your requirements.
 
+***
 
 ### Code snippets covered till now - 
 <ol>
@@ -28,3 +29,7 @@
 <li>Search functionality using search delegate</li>
 <li>Text Fields</li>
 </ol>
+
+***
+
+ * Please do not forget to **star the repo** if you liked it!
