@@ -1,6 +1,8 @@
 # flutter-code-snippets
 ## Flutter quick code snippets 
 
+***
+
 > #### Points to be noted
 >
 > - Here you can add your own quick flutter code snippets which can be referred while coding
