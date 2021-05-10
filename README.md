@@ -8,9 +8,6 @@
 >
 >  The codes snippets given are taken from my own projects on basis of their usage, you can customize it to fulfill your requirements.
 
-> Here you can add your own quick flutter code snippets which can be referred while coding
-> The codes snippets given are taken from my own projects on basis of their usage, you can customize it to fulfill your requirements.
-
 
 ### Code snippets covered till now - 
 <ol>
