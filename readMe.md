@@ -33,6 +33,8 @@
 <li>App Theme</li>
 <li>Search functionality using search delegate</li>
 <li>Text Fields</li>
+<li>List Tile</li>
+<li>Divider</li>
 </ol>
 
 ***
