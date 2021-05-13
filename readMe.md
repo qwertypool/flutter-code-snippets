@@ -17,7 +17,7 @@
 
 ### Code snippets covered till now - 
 <ol>
-<li>SVG icons</li>
+<li>Adding SVG icons</li>
 <li>Appbar Tricks</li>
 <li>Bottom Nav-bar</li>
 <li>Color codes & multiple color theme in apps </li>
@@ -37,6 +37,7 @@
 <li>Divider</li>
 <li>TextStyles</li>
 <li>Multiple Floating Action Button</li>
+<li>Social Login UI (Login with fb/google/twitter/etc.)</li>
 </ol>
 
 ***
