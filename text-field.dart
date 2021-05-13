@@ -90,6 +90,11 @@ class TextFieldContainer extends StatelessWidget {
     );
   }
 }
+void _togglePasswordView() {
+    setState(() {
+      _isHidden = !_isHidden;
+    });
+  }
 
 ----------------------------------------/\/\/\/\/\/\/\/\/\/\/\/\----------------------------------------------------
 
