@@ -8,5 +8,15 @@ RawMaterialButton(
     color: pPrimaryColor,
   ),
   padding: EdgeInsets.all(15.0),
-  shape: CircleBorder(),
+  shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(120.0),
+                    side: isDark == true ? BorderSide(
+                      color: Colors.white,
+                      width: 2
+                      ):
+                   BorderSide(
+                      color: Colors.black,
+                      width: 2
+                      ),
+                      ),
 ),
