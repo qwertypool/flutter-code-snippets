@@ -35,6 +35,7 @@
 <li>Text Fields</li>
 <li>List Tile</li>
 <li>Divider</li>
+<li>TextStyles</li>
 <li>Multiple Floating Action Button</li>
 </ol>
 
