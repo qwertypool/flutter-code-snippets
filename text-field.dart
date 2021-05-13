@@ -42,7 +42,7 @@ class TextFieldContainer extends StatelessWidget {
 ----------------------------------------/\/\/\/\/\/\/\/\/\/\/\/\----------------------------------------------------
 
 //Dummy Password text-field : 
-    
+bool _isHidden = true;
 TextFieldContainer(
       child: TextField(
         obscureText: _isHidden,
