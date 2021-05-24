@@ -17,6 +17,7 @@
 
 ### Code snippets covered till now - 
 <ol>
+ <li>Animations in flutter</li>
 <li>Adding SVG icons</li>
 <li>Appbar Tricks</li>
 <li>Bottom Nav-bar</li>
