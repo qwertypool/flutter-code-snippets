@@ -1,5 +1,9 @@
-//set the color to -
+final Brightness brightnessValue =
+        MediaQuery.of(context).platformBrightness;
+    bool isDark = brightnessValue == Brightness.dark;
 
+
+//set the color to -
 color: Theme.of(context).textTheme.bodyText1!.color
 
 
