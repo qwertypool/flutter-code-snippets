@@ -24,7 +24,8 @@
 <li>Color codes & multiple color theme in apps </li>
 <li>Dark Mode</li>
 <li>Random Color generator</li>
-<li>Password toggler</li>
+<li>Stepper - an incement decement counter</li>
+ <li>Password toggler</li>
 <li>Buttons
 <ol>
 <li>Raw Material button</li>
