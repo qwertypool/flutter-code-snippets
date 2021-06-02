@@ -43,6 +43,7 @@
 <li>Multiple Floating Action Button</li>
 <li>Social Login UI (Login with fb/google/twitter/etc.)</li>
 <li>GridView + Example for FB Story like Grid</li>
+ <li>Neuromorphic - Create 3D effect of your widgets</li>
 </ol>
 
 ***
