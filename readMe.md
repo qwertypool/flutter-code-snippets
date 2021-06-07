@@ -23,6 +23,7 @@
 <li>Bottom Nav-bar</li>
 <li>Color codes & multiple color theme in apps </li>
 <li>Dark Mode</li>
+ <li>Custom Drawer with navigation & tilecolor</li>
 <li>Random Color generator</li>
 <li>Stepper - an incement decement counter</li>
  <li>Password toggler</li>
