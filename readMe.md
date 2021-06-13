@@ -46,6 +46,7 @@
 <li>Social Login UI (Login with fb/google/twitter/etc.)</li>
 <li>GridView + Example for FB Story like Grid</li>
  <li>Neuromorphic - Create 3D effect of your widgets</li>
+ <li>On Generated Routes [PR by Lokesh Jangid]</li>
 </ol>
 
 ***
