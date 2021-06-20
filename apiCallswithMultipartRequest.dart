@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 void uploadImage1(File _image) async {
 
     // open a byteStream
-    var stream = new http.ByteStream(DelegatingStream.typed(_image.openRead()));
+    var stream = new http.ByteStream(_image.openRead());
     // get file length
     var length = await _image.length();
 
