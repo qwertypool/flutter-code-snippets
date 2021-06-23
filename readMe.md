@@ -48,6 +48,7 @@
  <li>Neuromorphic - Create 3D effect of your widgets</li>
  <li>On Generated Routes [PR by Lokesh Jangid]</li>
  <li>Card Styles [PR by Lokesh Jangid]</li>
+ <li>Paginated Data Table</li>
 </ol>
 
 ***
