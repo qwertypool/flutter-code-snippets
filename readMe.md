@@ -49,6 +49,7 @@
  <li>On Generated Routes [PR by Lokesh Jangid]</li>
  <li>Card Styles [PR by Lokesh Jangid]</li>
  <li>Paginated Data Table</li>
+ <li>Cut Out Effect Styles [PR by Lokesh Jangid]</li>
 </ol>
 
 ***
