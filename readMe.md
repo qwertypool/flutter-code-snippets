@@ -50,6 +50,7 @@
  <li>Card Styles [PR by Lokesh Jangid]</li>
  <li>Paginated Data Table</li>
  <li>Cut Out Effect Styles [PR by Lokesh Jangid]</li>
+ <li>Draggable Scrollable Sheet</li>
 </ol>
 
 ***
