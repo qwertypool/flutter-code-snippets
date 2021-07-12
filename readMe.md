@@ -1,6 +1,8 @@
 
 # Flutter quick code snippets 
 
+
+ * Please do not forget to **star the repo** if you liked it! And, follow me on fluter_girlz_
 ***
 
 > #### Points to be noted
@@ -55,4 +57,3 @@
 
 ***
 
- * Please do not forget to **star the repo** if you liked it!
