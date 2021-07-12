@@ -2,7 +2,7 @@
 # Flutter quick code snippets 
 
 
- * Please do not forget to **star the repo** if you liked it! And, follow me on fluter_girlz_
+ * Please do not forget to **star the repo** if you liked it! And, follow me on instagram.com/flutter_girlz_
 ***
 
 > #### Points to be noted
