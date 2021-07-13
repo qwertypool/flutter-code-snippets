@@ -2,7 +2,7 @@ Card(
   color: Colors.grey[900],
   shape: RoundedRectangleBorder(
     side: BorderSide(color: Colors.white70, width: 1),
-    borderRadius: BorderRadius.circular(10),
+    borderRadius: BorderRadius.circular(10),  
   ),
   margin: EdgeInsets.all(20.0),
   child: Container(
@@ -20,7 +20,7 @@ Card(
 ),
 
 
-////////////////More Card Shape//////////////
+/////////////////More Card Shape//////////////
 
 Card(
   shape: RoundedRectangleBorder(
