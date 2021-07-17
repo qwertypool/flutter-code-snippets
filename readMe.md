@@ -14,7 +14,6 @@
 >  The codes snippets given are taken from my own projects on basis of their usage, you can customize it to fulfill your requirements.
 >  
 
-
 ***
 
 ### Code snippets covered till now - 
