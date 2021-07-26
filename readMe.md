@@ -52,6 +52,7 @@
  <li>Paginated Data Table</li>
  <li>Cut Out Effect Styles [PR by Lokesh Jangid]</li>
  <li>Draggable Scrollable Sheet</li>
+ <li>ClipRect</li>
 </ol>
 
 ***
