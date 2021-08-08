@@ -1,4 +1,6 @@
 //Firstly add the dependency survey_kit: ^0.0.11 (latest one)
+// Run flutter pub get
+// Then find the code below(modify as per requirements.)
 
 import 'package:flutter/material.dart';
 import 'package:survey_kit/survey_kit.dart';
