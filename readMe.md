@@ -24,6 +24,7 @@
 <li>Appbar Tricks</li>
 <li>Bottom Nav-bar</li>
 <li>3D Seach Bar</li>
+<li>Stacked images</li>
 <li>Color codes & multiple color theme in apps </li>
 <li>Dark Mode</li>
  <li>Custom Drawer with navigation & tilecolor</li>
