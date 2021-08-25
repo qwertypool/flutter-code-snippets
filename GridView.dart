@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 
 ------------------------------------------------------------/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\---------------------------------------------------------------------------
 
-----------------------------A GRIDVIEW TO MAKE KIND OF STORY GRID(IN FB) WITH   PROFILE PIC + NAME + IMAGE + LIKE BUTTON EMBEDDED-----------------------------------------------
+----------------------------A GRIDVIEW TO MAKE KIND OF STORY GRID(IN FB) WITH   PROFILE PIC + NAME + IMAGE + LIKE BUTTON EMBEDDED-------------------------------------------
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
     final double itemHeight = (size.height - kToolbarHeight -150) / 2;
