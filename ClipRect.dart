@@ -3,8 +3,7 @@ import 'package:flutter/material.dart';
 void main(){
   runApp(MyApp());
 }
-
-// App Widget
+// App Widget:-
 class MyApp extends StatefulWidget {
 
   /// Initialize app
