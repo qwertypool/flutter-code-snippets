@@ -1,4 +1,5 @@
-// When you want to display your items as a grid rather than a normal list of items that come one after the next then use the GridView widget. Like story page in fb or a table 
+// When you want to display your items as a grid rather than a normal list of items that come one after the next then use the GridView widget.
+//Like story page in fb or a table 
 
 import 'package:flutter/material.dart';
 
