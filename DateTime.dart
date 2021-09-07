@@ -11,7 +11,7 @@ DateTimeFormField(
     ),
     // autovalidateMode: AutovalidateMode.always,
     // validator: (e) =>
-    //     (e?.day ?? 0) == 1 ? 'Please not the first day' : null,
+    //     (e?.day ?? 0) == 1 ? 'Please not the first day ' : null,
     onDateSelected: (DateTime value) {
       print(value);
     },
