@@ -54,7 +54,9 @@
  <li>Paginated Data Table</li>
  <li>Cut Out Effect Styles [PR by Lokesh Jangid]</li>
  <li>Draggable Scrollable Sheet</li>
+ <li>Firebase Authentication</li>
  <li>ClipRect</li>
+ <li>Refresh Indicator flutter</li>
 </ol>
 
 ***
