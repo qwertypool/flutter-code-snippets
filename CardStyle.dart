@@ -20,7 +20,7 @@ Card(
 ),
 
 
-////////////////More Card Shape///////////////////
+////////////////More Card Shape//////////////////
 
 Card(
   shape: RoundedRectangleBorder(
