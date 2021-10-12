@@ -6,12 +6,13 @@ void main(){
 // App Widget:-
 class MyApp extends StatefulWidget {
 
-  /// Initialize app
+  // Initialize app
   MyApp();
 
   @override
   _MyAppState createState() => _MyAppState();
 }
+
 
 class _MyAppState extends State<MyApp> {
   /// Widget
