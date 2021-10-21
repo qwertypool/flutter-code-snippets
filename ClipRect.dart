@@ -67,7 +67,7 @@ class _ClipperExamplesState extends State<ClipperExamples> {
                 ),
               ),
 
-              /// ClipRRect
+              //ClipRRect
               Container(
                 margin: EdgeInsets.only(top: 40.0,),
                 child: Text(
