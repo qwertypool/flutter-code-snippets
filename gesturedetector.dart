@@ -1,5 +1,6 @@
 //Gesture Detector -
 GestureDetector(
+    
     onTap: () {
       Navigator.push(context,
           MaterialPageRoute(builder: (context) => Profile()));
