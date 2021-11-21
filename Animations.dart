@@ -1,7 +1,5 @@
 animate_icons: ^2.0.0
   
--------------------------------------------------------------------
-  
 animations: ^2.0.0
 
 import 'package:flutter/material.dart';
