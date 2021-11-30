@@ -2,7 +2,6 @@
 //Like story page in fb or a table 
 
 import 'package:flutter/material.dart';
-
 void main() {
   runApp(MyApp());
 }
