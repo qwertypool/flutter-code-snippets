@@ -4,9 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:practise_widgets/drawerItems/Dart.dart';
 import 'package:practise_widgets/drawerItems/flutter.dart';
 import 'package:practise_widgets/drawerItems/ios.dart';
-
 class CustomDrawer extends StatefulWidget {
-  
     static final List<String> _listViewData = [
     "Flutter",
     "Ios",
