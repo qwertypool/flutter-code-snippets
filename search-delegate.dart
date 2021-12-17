@@ -67,3 +67,29 @@ class Datasearch extends SearchDelegate<String> {
     throw UnimplementedError();
   }
 
+    @override
+  Widget buildSuggestions(BuildContext context) {
+    final suggestionList = query.isEmpty
+        ? recentSearches
+        : names.where((element) => element.startsWith(query)).toList();
+    return ListView.builder(
+      itemBuilder: (context, index) => ListTile(
+        leading: Icon(Icons.person_search),
+        title: RichText(
+            text: TextSpan(
+                text: suggestionList[index].substring(0, query.length),
+                style:
+                    TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
+                children: [
+              TextSpan(
+                  text: suggestionList[index].substring(query.length),
+                  style: TextStyle(color: Colors.grey))
+            ])),
+      ),
+      itemCount: suggestionList.length,
+    );
+  }
+}
+
+
+
