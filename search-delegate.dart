@@ -1,6 +1,5 @@
 
 //Implementing search functionality using search delegate in flutter.
-
 class TextBox extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
