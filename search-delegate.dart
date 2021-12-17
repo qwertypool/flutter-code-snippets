@@ -18,6 +18,36 @@ class TextBox extends StatelessWidget {
   }
 }
 
+class Datasearch extends SearchDelegate<String> {
+  final names = [
+    'deepa',
+    'deepak',
+    'sugarcosmetics',
+    'balram',
+    'linkedln',
+    'banglore',
+    'balram0698@gmail.com',
+    'pandey.deepa@tcs.com',
+    'sugarcosmetics@gmail.com',
+    'pandeydeepak821@gmail.com',
+    'balram.rathore@tcs.com',
+  ];
+  final recentSearches = [
+    'pandey.deepa@tcs.com',
+    'sugarcosmetics@gmail.com',
+    'pandeydeepak821@gmail.com',
+    'balram0698@gmail.com'
+  ];
+  @override
+  List<Widget> buildActions(BuildContext context) {
+    return [
+      
+      IconButton(
+        icon: Icon(Icons.mic),
+        onPressed: () {},
+      )
+    ];
+  }
 
   @override
   Widget buildLeading(BuildContext context) {
