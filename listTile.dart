@@ -1,4 +1,16 @@
-
+Expanded(
+          child: ListView(
+            children: <Widget>[
+              Card(
+                elevation: 0,
+                child: ListTile(
+                  leading: Icon(Icons.person,color: pPrimaryColor,),
+                  title: Text('Name'),
+                  subtitle: Text(
+                      'Deepa Pandey '
+                  ),
+                  trailing: Icon(Icons.edit),
+                ),
                ),
                Divider(
                      color: Colors.grey[300],
