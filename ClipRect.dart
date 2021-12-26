@@ -1,30 +1,4 @@
-import 'package:flutter/material.dart';
 
-void main(){
-  runApp(MyApp());
-}
-// App Widget:-
-class MyApp extends StatefulWidget {
-
-  // Initialize app
-  MyApp();
-
-  @override
-  _MyAppState createState() => _MyAppState();
-}
-
-class _MyAppState extends State<MyApp> {
-  /// Widget
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-
-      /// Home
-      home: ClipperExamples(),
-    );
-  }
-}
 
 class ClipperExamples extends StatefulWidget {
   @override
