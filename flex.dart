@@ -101,5 +101,7 @@ void main() {
 			), //Container
 		) //Center
 		), //Scaffold
-
+	debugShowCheckedModeBanner: false,
+)); //MaterialApp
+}
 
