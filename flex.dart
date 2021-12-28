@@ -1,5 +1,19 @@
 
+import 'package:flutter/material.dart';
 
+void main() {
+	runApp(
+	MaterialApp(
+	home: Scaffold(
+		appBar: AppBar(
+			title: Text('Responsive app '),
+			backgroundColor: Colors.greenAccent[400],
+			leading: IconButton(
+			icon: Icon(Icons.menu),
+			onPressed: () {},
+			tooltip: 'Menu',
+			) //IconButton
+			), //AppBar
 		body: Center(
 		child: Container(
 			child: Padding(
