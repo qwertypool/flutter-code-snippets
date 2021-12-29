@@ -1,7 +1,5 @@
 
 // To create a list of items using listview ---
-
-
 ListView.builder(
           itemCount: 20,
           itemBuilder: (context, position) {
