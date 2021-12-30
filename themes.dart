@@ -1,4 +1,12 @@
+//Applying dark & light themes in flutter
+//code snippet taken from abuanwar072 (applied some of my own changes too)
 
+import 'package:colorCode.dart';
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+
+// let's add light theme on our app
 
 ThemeData lightThemeData(BuildContext context) {
   return ThemeData.light().copyWith(
