@@ -1,27 +1,6 @@
 
 
 
-// A demo social login UI (have to include the svg files in the assets...)
-Row(
-    mainAxisAlignment: MainAxisAlignment.center,
-    children: <Widget>[
-      SocalIcon(
-        iconSrc: "assets/icons/facebook.svg",
-        press: () {},
-      ),
-      SocalIcon(
-        iconSrc: "assets/icons/twitter.svg",
-        press: () {},
-      ),
-      SocalIcon(
-        iconSrc: "assets/icons/google-plus.svg",
-        press: () {},
-      ),
-    ],
-  )
-
-
-
 class SocalIcon extends StatelessWidget {
   final String iconSrc;
   final Function press;
